@@ -23,8 +23,8 @@ You may also see any lint errors in the console.
 
 ### Descripciones y mejoras
 
-Al ejecutarlo en la página de inicio se ve un carrousel despúes si en el navbar le das click a 'Pokemon' te redirige a la vista de los pokemoes (donde se muestran 20 por página) al final de la página están dos botones, anterior y siguiente que te redirigen para ver más páginas de pokemones, al dar click en el botón de cada pokemon redirige al link '/description/charmander' pero no redirige a la página de cada pokemon para eso se necesita escribir el la url '/description/{nombre}' para poder ver la descripción de cada pokemon.
+Al ejecutarlo en la página de inicio se ve un carrousel despúes si en el navbar le das click a 'Pokemon' te redirige a la vista de los pokemoes (donde se muestran 20 por página) al final de la página están dos botones, anterior y siguiente que te redirigen para ver más páginas de pokemones, en el siguiente link description está un input al ingresar el nombre de algún pokemon te da la descripción de cada uno, puedes volver a escribir y te muestra la descrpción del mismo.
 
-En cuanto a mejoras creo que hay muchas que se podrían realizar dado que en mis escasos conocimientos de React js hay varias cosas que no las hice de la mejor manera, sin embargo seguiré preparandome espero pronto poder realizar un mejor proyecto. Con mejor estructura y que redirija correctamente.
+En cuanto a mejoras creo que hay muchas que se podrían realizar dado que en mis escasos conocimientos de React js hay varias cosas que no las hice de la mejor manera, sin embargo seguiré preparandome espero pronto poder realizar un mejor proyecto. Con mejor estructura y más utilidades.
 
 Una disculpa por enviarlo hasta ahora pero por el trabajo no tenía mucho tiempo para avanzarle correctamente al curso de react y a la creación del proyecto, sin más por el momento, me despido agradeciendole por su tiempo.

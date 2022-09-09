@@ -1,6 +1,3 @@
-// React imports
-import { Link } from "react-router-dom";
-
 // Components
 import { Loading } from '../loading/Loading';
 
