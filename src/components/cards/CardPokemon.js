@@ -26,10 +26,6 @@ export const CardPokemon = ({url}) => {
                     <div className="card-body">
                         <h2><b>#</b> {data.id}</h2>
                         <h5 className="card-title text-capitalize">{data.forms[0].name}</h5>
-                        <Link to='/description/charmander'
-                            type="button" className="btn btn-success">
-                            <i className="fa-solid fa-circle-info"/> Detalles
-                        </Link>
                     </div>
                 </div>
             }

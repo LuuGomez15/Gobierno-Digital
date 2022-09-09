@@ -20,9 +20,9 @@ export const Navbar = () => {
                         <li className="nav-item">
                             <Link className="nav-link" to="/pokemon">Pokemon</Link>
                         </li>
-                        {/* <li className="nav-item">
+                        <li className="nav-item">
                             <Link className="nav-link" to="/description">Description</Link>
-                        </li> */}
+                        </li>
                     </ul>
                 </div>
             </div>
