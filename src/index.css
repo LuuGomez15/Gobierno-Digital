@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgb(234, 234, 234);
+}
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
