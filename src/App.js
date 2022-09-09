@@ -15,7 +15,8 @@ function App() {
         <Routes>
           <Route path='/' element={<Start/>}/>
           <Route path='/pokemon' element={<Pokemon/>}/>
-          <Route path='/description/:pokemon' element={<Items/>}/>
+          <Route path='/description/' element={<Items/>}/>
+          {/* <Route path='/description/:pokemon' element={<Items/>}/> */}
         </Routes>
         <Footer/>
     </Router>

@@ -27,3 +27,9 @@
     height: 6rem;
     width: 12rem;
 }
+
+.card-description {
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+}
